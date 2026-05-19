@@ -1,5 +1,5 @@
 ``# Ex02 Time Table
-## Date:
+## Date: 19.05.2026
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```
+```python
 <html>
     <head>
         <title>My Time Table</title>
@@ -63,7 +63,7 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <td bgcolor="cyan">1-3</td>
-            <td  bgcolor="lightgreen" colspan="1">Free Slot</td>
+            <td bgcolor="lightgreen" colspan="1">Free Slot</td>
             <td bgcolor="lightgreen">FWAD</td>
             <td bgcolor="lightgreen">Mentor Meet</td>
             <td bgcolor="lightgreen">Python</td>
